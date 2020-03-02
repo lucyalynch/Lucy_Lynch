@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web Scraper</title>
+</head>
+<body>
+
+<h1>Team Project: Web Scraper</h1>
+
+<a href="url">Github page</a>
+<p>This project was a collaberation between Jonas Blanchard, Jonah , and myself. It was an assignment for the IB Computer Science class, and was created to scrape the Amazon best-sellers page.</p>
+
+<h3>Tools</h3>
+<a href="url">Twilio</a>
+<br>
+<a href="url">BeautifulSoup</a>
+<h3>Techniques</h3>
+Variables
+<br>
+Conditionals
+<br>
+Create/read files
+
+<p>Twilio and BeautifulSoup were the main tools used in the development of the project. <br>
+	Twilio was chosen as it is allowed the program to send notifications to the user’s phone.</p>
+<p>BeautifulSoup allowed easier access to the elements of the page’s HTML code, allowing us to easily find the price and URL of the top toy on Amazon.</p>
+<p>Variables are a core part of programming, and were used throughout the app to store URLs, authentication tokens, file names, and more.</p>
+<p>If and else statements were also used inside the app, which provided the some of the logic of the algorithm.</p>
+<p>Finally, files were created and read, which allowed it to store information between launches.</p>
+
+
+</body>
+</html>
